@@ -1,0 +1,501 @@
+,ID,Age,Age Brackets,Department,Area Type,Education,Recruitment Type,Job Level,Rating,Work Location,Awards,Certifications,Salary,Satisfied
+0,HR8270,28,23-29,HR,Suburb,Postgraduate,Referral,5,2,offsite,1,No,86750,Yes
+1,TECH1860,50,50-54,Technology,Suburb,Postgraduate,Walk-in,3,5,onsite,2,Yes,42419,No
+2,TECH6390,43,40-49,Technology,Suburb,Undergraduate,Referral,4,1,offsite,2,No,65715,No
+3,SAL6191,44,40-49,Sales,City,Postgraduate,On-Campus,2,3,onsite,0,No,29805,Yes
+4,HR6734,33,30-39,HR,City,Undergraduate,Recruitment Agency,2,1,offsite,5,No,29805,Yes
+5,PUR7265,40,40-49,Purchasing,Suburb,Undergraduate,Referral,3,3,offsite,7,Yes,42419,Yes
+6,PUR1466,26,23-29,Purchasing,Suburb,Undergraduate,Referral,5,5,offsite,2,No,86750,No
+7,TECH5426,25,23-29,Technology,City,Undergraduate,Recruitment Agency,1,1,offsite,4,No,24076,No
+8,HR6578,35,30-39,HR,City,Postgraduate,Referral,3,4,offsite,0,No,42419,Yes
+9,TECH9322,45,40-49,Technology,City,Postgraduate,Referral,3,3,offsite,9,No,42419,No
+10,MKT2685,31,30-39,Marketing,City,Undergraduate,Walk-in,4,4,onsite,6,No,65715,Yes
+11,TECH1769,43,40-49,Technology,Suburb,Postgraduate,Recruitment Agency,2,1,offsite,9,Yes,29805,Yes
+12,TECH7949,28,23-29,Technology,City,Undergraduate,On-Campus,3,4,onsite,0,No,42419,No
+13,PUR3433,48,40-49,Purchasing,Suburb,Postgraduate,Referral,3,4,onsite,8,No,42419,Yes
+14,PUR6311,52,50-54,Purchasing,City,Postgraduate,Recruitment Agency,5,1,onsite,7,No,86750,Yes
+15,PUR6051,50,50-54,Purchasing,City,Undergraduate,Walk-in,5,5,onsite,6,No,86750,Yes
+16,MKT7420,34,30-39,Marketing,City,Postgraduate,On-Campus,1,4,onsite,9,No,24076,No
+17,PUR2184,24,23-29,Purchasing,Suburb,Undergraduate,Recruitment Agency,4,4,offsite,6,No,65715,Yes
+18,HR5555,54,50-54,HR,Suburb,Postgraduate,On-Campus,1,5,offsite,4,No,24076,Yes
+19,SAL4385,25,23-29,Sales,City,Undergraduate,On-Campus,5,4,offsite,4,No,86750,Yes
+20,HR7396,25,23-29,HR,Suburb,Undergraduate,On-Campus,2,4,onsite,4,No,29805,Yes
+21,HR9666,50,50-54,HR,Suburb,Postgraduate,Referral,5,4,offsite,0,No,86750,Yes
+22,PUR3558,34,30-39,Purchasing,City,Postgraduate,Referral,4,2,offsite,7,Yes,65715,Yes
+23,SAL8849,37,30-39,Sales,City,Undergraduate,Walk-in,5,5,offsite,0,Yes,86750,Yes
+24,SAL3047,31,30-39,Sales,Suburb,Postgraduate,Walk-in,4,4,offsite,3,Yes,65715,No
+25,SAL3747,53,50-54,Sales,Suburb,Postgraduate,Recruitment Agency,4,5,offsite,8,Yes,65715,No
+26,MKT1189,45,40-49,Marketing,Suburb,Undergraduate,Walk-in,4,3,onsite,8,No,65715,Yes
+27,PUR3734,30,30-39,Purchasing,City,Undergraduate,On-Campus,4,3,offsite,4,Yes,65715,No
+28,SAL4005,33,30-39,Sales,City,Postgraduate,On-Campus,4,4,onsite,3,Yes,65715,No
+29,MKT5658,38,30-39,Marketing,Suburb,Undergraduate,Referral,2,5,onsite,2,No,29805,Yes
+30,TECH2899,54,50-54,Technology,City,Undergraduate,On-Campus,1,5,onsite,2,Yes,24076,No
+31,TECH8734,48,40-49,Technology,City,Undergraduate,Recruitment Agency,3,5,onsite,4,Yes,42419,Yes
+32,MKT2267,49,40-49,Marketing,Suburb,Postgraduate,On-Campus,1,2,onsite,9,No,24076,Yes
+33,MKT2528,47,40-49,Marketing,Suburb,Postgraduate,On-Campus,4,3,offsite,0,No,65715,Yes
+34,PUR4556,44,40-49,Purchasing,City,Undergraduate,Recruitment Agency,2,5,offsite,4,No,29805,Yes
+35,PUR4890,26,23-29,Purchasing,City,Postgraduate,Walk-in,5,5,offsite,5,Yes,86750,Yes
+36,TECH9838,50,50-54,Technology,Suburb,Undergraduate,Walk-in,2,2,onsite,6,Yes,29805,No
+37,SAL6393,23,23-29,Sales,City,Postgraduate,Recruitment Agency,4,2,offsite,8,No,65715,Yes
+38,TECH9792,46,40-49,Technology,City,Undergraduate,Referral,2,5,offsite,2,No,29805,No
+39,SAL9433,29,23-29,Sales,Suburb,Undergraduate,On-Campus,2,1,onsite,1,Yes,29805,Yes
+40,SAL8513,24,23-29,Sales,Suburb,Postgraduate,Recruitment Agency,4,5,onsite,2,No,65715,Yes
+41,PUR3612,46,40-49,Purchasing,City,Undergraduate,On-Campus,2,5,onsite,8,Yes,29805,Yes
+42,HR8041,50,50-54,HR,City,Postgraduate,Referral,3,2,onsite,6,No,42419,No
+43,HR7235,27,23-29,HR,City,Postgraduate,On-Campus,3,2,offsite,8,No,42419,Yes
+44,MKT6486,29,23-29,Marketing,Suburb,Undergraduate,Recruitment Agency,2,5,onsite,1,Yes,29805,Yes
+45,PUR8099,26,23-29,Purchasing,City,Undergraduate,On-Campus,5,5,onsite,4,No,86750,Yes
+46,SAL1775,27,23-29,Sales,City,Postgraduate,Walk-in,4,5,offsite,3,No,65715,Yes
+47,HR9226,46,40-49,HR,Suburb,Undergraduate,Referral,3,2,offsite,1,No,42419,No
+48,SAL4152,23,23-29,Sales,Suburb,Undergraduate,Referral,5,5,onsite,8,Yes,86750,Yes
+49,HR2585,23,23-29,HR,City,Undergraduate,Referral,2,5,offsite,8,No,29805,No
+50,HR4943,37,30-39,HR,Suburb,Undergraduate,Recruitment Agency,5,4,onsite,5,No,86750,Yes
+51,HR8555,42,40-49,HR,Suburb,Undergraduate,Referral,1,1,onsite,5,No,24076,No
+52,PUR4073,41,40-49,Purchasing,City,Postgraduate,Walk-in,3,3,offsite,7,No,42419,No
+53,TECH2021,51,50-54,Technology,Suburb,Postgraduate,Recruitment Agency,2,1,offsite,5,No,29805,Yes
+54,SAL4843,32,30-39,Sales,Suburb,Undergraduate,Walk-in,4,4,onsite,0,No,65715,Yes
+55,PUR8989,50,50-54,Purchasing,City,Undergraduate,On-Campus,2,3,onsite,3,Yes,29805,No
+56,PUR7873,40,40-49,Purchasing,Suburb,Undergraduate,On-Campus,4,5,onsite,6,Yes,65715,Yes
+57,PUR6675,50,50-54,Purchasing,City,Postgraduate,On-Campus,2,4,offsite,1,No,29805,Yes
+58,PUR1161,25,23-29,Purchasing,City,Undergraduate,On-Campus,5,5,onsite,8,Yes,86750,Yes
+59,PUR5297,33,30-39,Purchasing,Suburb,Postgraduate,Walk-in,5,2,onsite,7,Yes,86750,No
+60,MKT1995,37,30-39,Marketing,Suburb,Postgraduate,Recruitment Agency,5,4,onsite,7,No,86750,Yes
+61,SAL8629,53,50-54,Sales,Suburb,Postgraduate,Recruitment Agency,1,2,onsite,6,Yes,24076,Yes
+62,PUR2016,49,40-49,Purchasing,City,Undergraduate,Referral,4,4,onsite,3,Yes,65715,Yes
+63,SAL8869,52,50-54,Sales,Suburb,Postgraduate,Walk-in,5,4,offsite,1,Yes,86750,No
+64,MKT7439,33,30-39,Marketing,City,Undergraduate,On-Campus,1,2,onsite,2,Yes,24076,Yes
+65,MKT8892,39,30-39,Marketing,Suburb,Postgraduate,Walk-in,4,3,onsite,5,Yes,65715,No
+66,SAL7863,39,30-39,Sales,Suburb,Undergraduate,Referral,2,1,onsite,4,Yes,29805,Yes
+67,HR8916,28,23-29,HR,Suburb,Postgraduate,Referral,1,5,onsite,7,Yes,24076,No
+68,TECH9529,54,50-54,Technology,City,Undergraduate,Walk-in,3,4,offsite,5,Yes,42419,Yes
+69,HR1878,27,23-29,HR,Suburb,Postgraduate,Walk-in,1,5,offsite,5,No,24076,Yes
+70,HR5887,30,30-39,HR,Suburb,Undergraduate,Walk-in,1,2,offsite,0,No,24076,No
+71,HR5859,24,23-29,HR,City,Undergraduate,Recruitment Agency,4,5,onsite,3,Yes,65715,No
+72,PUR7331,38,30-39,Purchasing,City,Undergraduate,On-Campus,2,2,onsite,4,Yes,29805,No
+73,MKT9571,42,40-49,Marketing,Suburb,Undergraduate,Walk-in,3,5,offsite,2,No,42419,Yes
+74,HR9684,46,40-49,HR,Suburb,Postgraduate,Walk-in,5,1,offsite,8,Yes,86750,Yes
+75,MKT8208,34,30-39,Marketing,Suburb,Postgraduate,Walk-in,5,1,offsite,0,Yes,86750,Yes
+76,SAL6276,28,23-29,Sales,City,Undergraduate,Referral,1,1,onsite,5,No,24076,Yes
+77,TECH3062,23,23-29,Technology,City,Postgraduate,Referral,4,1,onsite,5,No,65715,No
+78,SAL1064,53,50-54,Sales,City,Undergraduate,Recruitment Agency,4,1,offsite,9,No,65715,Yes
+79,SAL9006,26,23-29,Sales,City,Undergraduate,On-Campus,5,1,offsite,4,Yes,86750,Yes
+80,PUR3568,39,30-39,Purchasing,Suburb,Postgraduate,Recruitment Agency,3,2,offsite,4,Yes,42419,Yes
+81,TECH6463,35,30-39,Technology,City,Undergraduate,On-Campus,2,4,onsite,9,No,29805,Yes
+82,SAL3027,40,40-49,Sales,City,Undergraduate,Referral,3,5,onsite,4,No,42419,Yes
+83,SAL3695,27,23-29,Sales,City,Postgraduate,Referral,2,1,onsite,5,Yes,29805,Yes
+84,TECH6258,52,50-54,Technology,Suburb,Undergraduate,Referral,5,2,offsite,7,No,86750,Yes
+85,TECH6618,46,40-49,Technology,Suburb,Undergraduate,Recruitment Agency,2,2,offsite,1,Yes,29805,No
+86,SAL7736,46,40-49,Sales,City,Undergraduate,Walk-in,4,2,onsite,5,Yes,65715,Yes
+87,TECH1391,49,40-49,Technology,City,Undergraduate,Walk-in,1,4,offsite,0,No,24076,Yes
+88,SAL6892,25,23-29,Sales,Suburb,Postgraduate,Referral,1,5,onsite,3,No,24076,Yes
+89,SAL4561,33,30-39,Sales,Suburb,Postgraduate,Walk-in,5,4,offsite,9,Yes,86750,Yes
+90,PUR7184,35,30-39,Purchasing,Suburb,Postgraduate,Walk-in,4,3,offsite,2,No,65715,No
+91,HR4099,26,23-29,HR,Suburb,Undergraduate,Recruitment Agency,3,2,offsite,8,No,42419,No
+92,SAL7278,48,40-49,Sales,Suburb,Undergraduate,On-Campus,4,3,offsite,2,No,65715,No
+93,MKT9392,49,40-49,Marketing,Suburb,Postgraduate,Referral,1,1,onsite,5,No,24076,No
+94,HR4104,36,30-39,HR,Suburb,Undergraduate,Referral,1,1,offsite,0,Yes,24076,No
+95,HR8215,44,40-49,HR,Suburb,Undergraduate,Recruitment Agency,4,4,onsite,5,Yes,65715,No
+96,HR3454,33,30-39,HR,City,Undergraduate,Recruitment Agency,4,5,onsite,3,Yes,65715,Yes
+97,PUR9996,54,50-54,Purchasing,City,Undergraduate,Walk-in,1,3,onsite,7,Yes,24076,No
+98,SAL3731,49,40-49,Sales,City,Postgraduate,Referral,3,5,offsite,8,No,42419,No
+99,PUR9154,32,30-39,Purchasing,City,Postgraduate,On-Campus,5,4,onsite,3,No,86750,Yes
+100,SAL6056,41,40-49,Sales,City,Postgraduate,Recruitment Agency,5,1,onsite,9,Yes,86750,No
+101,PUR9110,40,40-49,Purchasing,City,Undergraduate,On-Campus,4,5,onsite,9,Yes,65715,Yes
+102,PUR4840,28,23-29,Purchasing,Suburb,Postgraduate,On-Campus,5,5,offsite,5,No,86750,Yes
+103,MKT2028,49,40-49,Marketing,Suburb,Postgraduate,Referral,1,1,offsite,0,Yes,24076,No
+104,PUR8385,51,50-54,Purchasing,City,Undergraduate,Referral,1,3,onsite,3,Yes,24076,Yes
+105,TECH1502,37,30-39,Technology,City,Undergraduate,Recruitment Agency,4,1,offsite,6,No,65715,No
+106,MKT7910,43,40-49,Marketing,Suburb,Postgraduate,Referral,4,5,onsite,0,Yes,65715,No
+107,PUR7938,52,50-54,Purchasing,Suburb,Postgraduate,Referral,4,3,onsite,7,No,65715,Yes
+108,HR5488,32,30-39,HR,Suburb,Postgraduate,Referral,3,3,offsite,9,No,42419,Yes
+109,TECH1206,27,23-29,Technology,City,Postgraduate,On-Campus,5,1,onsite,5,Yes,86750,No
+110,TECH6134,48,40-49,Technology,Suburb,Undergraduate,Recruitment Agency,4,5,offsite,4,No,65715,Yes
+111,TECH6977,51,50-54,Technology,City,Postgraduate,Walk-in,2,4,offsite,9,Yes,29805,Yes
+112,MKT8721,27,23-29,Marketing,City,Postgraduate,On-Campus,2,5,onsite,8,No,29805,No
+113,PUR8035,32,30-39,Purchasing,Suburb,Undergraduate,Referral,1,2,offsite,1,Yes,24076,No
+114,PUR2484,50,50-54,Purchasing,Suburb,Postgraduate,On-Campus,5,4,offsite,4,Yes,86750,Yes
+115,HR8858,27,23-29,HR,City,Undergraduate,Referral,4,3,onsite,5,Yes,65715,No
+116,HR1863,25,23-29,HR,Suburb,Undergraduate,Referral,2,4,onsite,6,No,29805,No
+117,TECH3790,45,40-49,Technology,Suburb,Undergraduate,On-Campus,5,3,offsite,4,No,86750,No
+118,HR8408,28,23-29,HR,City,Postgraduate,Recruitment Agency,1,3,offsite,8,Yes,24076,No
+119,MKT9755,26,23-29,Marketing,Suburb,Postgraduate,Referral,3,4,onsite,0,No,42419,No
+120,PUR6116,40,40-49,Purchasing,City,Undergraduate,Recruitment Agency,5,3,offsite,6,Yes,86750,No
+121,TECH7019,50,50-54,Technology,City,Postgraduate,Walk-in,5,3,offsite,9,Yes,86750,No
+122,HR2757,31,30-39,HR,Suburb,Postgraduate,Referral,3,2,offsite,6,No,42419,Yes
+123,MKT8574,39,30-39,Marketing,City,Undergraduate,Recruitment Agency,5,5,offsite,3,Yes,86750,No
+124,MKT7374,51,50-54,Marketing,City,Undergraduate,Recruitment Agency,1,5,offsite,8,No,24076,Yes
+125,HR7892,35,30-39,HR,Suburb,Postgraduate,Walk-in,1,2,offsite,4,Yes,24076,Yes
+126,PUR2678,49,40-49,Purchasing,Suburb,Undergraduate,Recruitment Agency,3,4,offsite,3,No,42419,Yes
+127,HR4242,37,30-39,HR,Suburb,Postgraduate,Recruitment Agency,4,1,onsite,6,Yes,65715,No
+128,TECH5636,52,50-54,Technology,City,Postgraduate,Walk-in,2,1,onsite,3,Yes,29805,No
+129,HR2059,42,40-49,HR,City,Postgraduate,Referral,4,1,onsite,2,No,65715,Yes
+130,MKT7668,39,30-39,Marketing,Suburb,Postgraduate,Recruitment Agency,5,2,onsite,8,Yes,86750,No
+131,HR4157,35,30-39,HR,City,Undergraduate,Recruitment Agency,2,2,onsite,7,Yes,29805,Yes
+132,PUR6915,54,50-54,Purchasing,Suburb,Undergraduate,Recruitment Agency,3,3,offsite,0,No,42419,No
+133,SAL3693,38,30-39,Sales,Suburb,Undergraduate,On-Campus,3,1,offsite,6,Yes,42419,No
+134,HR4627,44,40-49,HR,City,Undergraduate,Walk-in,2,4,offsite,8,No,29805,Yes
+135,PUR6450,26,23-29,Purchasing,Suburb,Postgraduate,On-Campus,1,4,offsite,7,Yes,24076,Yes
+136,PUR2663,27,23-29,Purchasing,City,Postgraduate,Walk-in,2,1,onsite,7,No,29805,Yes
+137,MKT6592,27,23-29,Marketing,City,Undergraduate,Referral,5,1,offsite,5,Yes,86750,No
+138,PUR8392,31,30-39,Purchasing,Suburb,Postgraduate,Referral,1,1,offsite,3,Yes,24076,Yes
+139,PUR2306,39,30-39,Purchasing,City,Postgraduate,Recruitment Agency,3,2,onsite,7,Yes,42419,No
+140,PUR7776,35,30-39,Purchasing,Suburb,Postgraduate,Walk-in,2,2,offsite,2,No,29805,No
+141,PUR6864,24,23-29,Purchasing,City,Undergraduate,Referral,4,2,offsite,8,No,65715,No
+142,TECH8526,35,30-39,Technology,City,Undergraduate,Walk-in,4,5,onsite,1,No,65715,Yes
+143,TECH9901,44,40-49,Technology,City,Undergraduate,Referral,5,4,offsite,1,No,86750,Yes
+144,MKT6575,43,40-49,Marketing,Suburb,Postgraduate,On-Campus,4,4,offsite,6,Yes,65715,Yes
+145,HR6530,49,40-49,HR,City,Undergraduate,Referral,2,3,offsite,9,Yes,29805,No
+146,PUR5413,45,40-49,Purchasing,Suburb,Undergraduate,On-Campus,2,2,offsite,3,No,29805,No
+147,HR4748,41,40-49,HR,City,Undergraduate,Referral,4,5,offsite,9,No,65715,Yes
+148,HR1663,25,23-29,HR,City,Undergraduate,Recruitment Agency,2,5,onsite,7,No,29805,No
+149,MKT2998,32,30-39,Marketing,Suburb,Undergraduate,On-Campus,5,4,onsite,8,Yes,86750,No
+150,PUR8994,24,23-29,Purchasing,Suburb,Undergraduate,Referral,1,2,onsite,6,No,24076,Yes
+151,PUR2495,54,50-54,Purchasing,Suburb,Postgraduate,Recruitment Agency,5,3,onsite,4,No,86750,Yes
+152,SAL4304,35,30-39,Sales,Suburb,Postgraduate,On-Campus,5,2,onsite,7,Yes,86750,Yes
+153,HR4763,41,40-49,HR,Suburb,Undergraduate,Recruitment Agency,2,1,onsite,3,Yes,29805,No
+154,HR6232,48,40-49,HR,City,Undergraduate,Walk-in,1,2,offsite,1,No,24076,No
+155,TECH2853,39,30-39,Technology,City,Postgraduate,Walk-in,2,1,onsite,5,Yes,29805,No
+156,SAL7585,43,40-49,Sales,Suburb,Postgraduate,On-Campus,3,1,onsite,8,No,42419,No
+157,TECH2291,36,30-39,Technology,City,Undergraduate,Referral,2,3,offsite,0,Yes,29805,No
+158,TECH4581,53,50-54,Technology,City,Undergraduate,On-Campus,2,4,offsite,9,No,29805,Yes
+159,TECH8554,34,30-39,Technology,City,Undergraduate,Recruitment Agency,2,2,onsite,6,No,29805,No
+160,MKT8280,43,40-49,Marketing,Suburb,Undergraduate,Referral,1,1,offsite,9,No,24076,No
+161,MKT2636,34,30-39,Marketing,City,Postgraduate,Walk-in,2,2,onsite,8,No,29805,No
+162,TECH4696,33,30-39,Technology,City,Undergraduate,Referral,1,4,offsite,9,Yes,24076,Yes
+163,SAL1698,29,23-29,Sales,City,Undergraduate,Walk-in,4,4,onsite,8,Yes,65715,Yes
+164,HR5737,26,23-29,HR,Suburb,Undergraduate,Referral,3,5,offsite,9,Yes,42419,Yes
+165,SAL1854,41,40-49,Sales,City,Undergraduate,Referral,1,4,offsite,2,Yes,24076,No
+166,PUR9164,23,23-29,Purchasing,City,Postgraduate,Referral,4,3,onsite,4,No,65715,Yes
+167,MKT6855,50,50-54,Marketing,Suburb,Postgraduate,Recruitment Agency,1,1,onsite,7,No,24076,Yes
+168,HR8392,53,50-54,HR,Suburb,Postgraduate,Recruitment Agency,1,5,onsite,7,Yes,24076,Yes
+169,HR7528,46,40-49,HR,City,Undergraduate,On-Campus,3,3,onsite,3,Yes,42419,No
+170,PUR6249,51,50-54,Purchasing,City,Undergraduate,On-Campus,5,2,onsite,0,Yes,86750,Yes
+171,PUR6172,25,23-29,Purchasing,Suburb,Postgraduate,Walk-in,5,1,offsite,0,Yes,86750,No
+172,TECH2707,35,30-39,Technology,Suburb,Undergraduate,Recruitment Agency,1,4,onsite,3,Yes,24076,No
+173,MKT6791,37,30-39,Marketing,Suburb,Undergraduate,Walk-in,2,1,onsite,5,No,29805,Yes
+174,MKT6535,24,23-29,Marketing,Suburb,Postgraduate,On-Campus,4,2,offsite,7,No,65715,No
+175,SAL5931,33,30-39,Sales,Suburb,Postgraduate,Walk-in,2,5,offsite,5,No,29805,Yes
+176,TECH4510,26,23-29,Technology,Suburb,Postgraduate,On-Campus,2,5,onsite,8,Yes,29805,No
+177,TECH1202,41,40-49,Technology,Suburb,Postgraduate,Recruitment Agency,1,5,offsite,8,Yes,24076,Yes
+178,TECH5218,51,50-54,Technology,City,Undergraduate,Referral,1,4,offsite,1,Yes,24076,Yes
+179,TECH9958,39,30-39,Technology,Suburb,Undergraduate,Recruitment Agency,1,3,onsite,9,Yes,24076,Yes
+180,MKT5389,25,23-29,Marketing,Suburb,Postgraduate,Walk-in,1,3,offsite,0,No,24076,No
+181,MKT3327,50,50-54,Marketing,City,Undergraduate,Walk-in,5,1,offsite,1,No,86750,Yes
+182,TECH9004,40,40-49,Technology,Suburb,Postgraduate,Recruitment Agency,1,4,onsite,4,Yes,24076,No
+183,SAL3931,30,30-39,Sales,Suburb,Postgraduate,Recruitment Agency,5,5,onsite,3,No,86750,Yes
+184,HR8777,44,40-49,HR,City,Undergraduate,On-Campus,5,5,offsite,3,No,86750,No
+185,HR1197,47,40-49,HR,Suburb,Postgraduate,Walk-in,1,2,offsite,8,Yes,24076,No
+186,SAL8125,46,40-49,Sales,City,Undergraduate,Walk-in,3,2,onsite,7,Yes,42419,Yes
+187,TECH2930,48,40-49,Technology,City,Undergraduate,Recruitment Agency,4,5,offsite,5,Yes,65715,Yes
+188,MKT7287,41,40-49,Marketing,City,Undergraduate,Referral,2,5,offsite,0,Yes,29805,Yes
+189,HR9800,27,23-29,HR,City,Undergraduate,Walk-in,5,4,offsite,1,Yes,86750,Yes
+190,PUR5282,29,23-29,Purchasing,Suburb,Postgraduate,Referral,4,3,onsite,5,Yes,65715,Yes
+191,PUR3511,43,40-49,Purchasing,City,Undergraduate,Recruitment Agency,3,2,offsite,1,No,42419,No
+192,SAL1659,30,30-39,Sales,City,Postgraduate,Recruitment Agency,2,3,offsite,9,No,29805,Yes
+193,TECH3811,50,50-54,Technology,Suburb,Postgraduate,On-Campus,2,4,onsite,4,Yes,29805,Yes
+194,HR8098,27,23-29,HR,City,Postgraduate,Walk-in,5,5,offsite,4,No,86750,No
+195,TECH7546,39,30-39,Technology,City,Postgraduate,Referral,1,3,offsite,5,Yes,24076,Yes
+196,HR2986,27,23-29,HR,City,Undergraduate,On-Campus,3,5,onsite,5,Yes,42419,Yes
+197,SAL9338,26,23-29,Sales,City,Undergraduate,Walk-in,5,5,onsite,5,Yes,86750,No
+198,SAL3911,44,40-49,Sales,Suburb,Postgraduate,On-Campus,3,1,onsite,1,Yes,42419,Yes
+199,PUR2734,41,40-49,Purchasing,City,Postgraduate,Recruitment Agency,1,3,onsite,9,No,24076,Yes
+200,TECH2843,53,50-54,Technology,Suburb,Undergraduate,Walk-in,1,3,offsite,2,Yes,24076,Yes
+201,PUR9680,54,50-54,Purchasing,Suburb,Postgraduate,On-Campus,5,5,offsite,5,No,86750,No
+202,TECH3976,49,40-49,Technology,City,Undergraduate,On-Campus,1,4,onsite,7,Yes,24076,Yes
+203,PUR2959,43,40-49,Purchasing,City,Postgraduate,Referral,4,1,onsite,0,Yes,65715,No
+204,MKT6759,24,23-29,Marketing,City,Undergraduate,On-Campus,2,5,offsite,0,Yes,29805,Yes
+205,MKT7694,33,30-39,Marketing,City,Postgraduate,Walk-in,5,2,onsite,1,No,86750,No
+206,MKT3385,44,40-49,Marketing,Suburb,Postgraduate,Walk-in,3,2,offsite,5,Yes,42419,Yes
+207,MKT5736,35,30-39,Marketing,Suburb,Undergraduate,Referral,4,1,onsite,8,Yes,65715,No
+208,HR2802,37,30-39,HR,Suburb,Postgraduate,Walk-in,5,4,offsite,3,Yes,86750,No
+209,MKT9155,34,30-39,Marketing,City,Postgraduate,Recruitment Agency,1,5,onsite,2,No,24076,No
+210,SAL9120,44,40-49,Sales,Suburb,Undergraduate,Walk-in,1,3,onsite,7,No,24076,No
+211,SAL7616,43,40-49,Sales,City,Postgraduate,Walk-in,1,1,offsite,9,No,24076,No
+212,HR6534,44,40-49,HR,City,Undergraduate,On-Campus,1,4,onsite,8,Yes,24076,No
+213,MKT5061,33,30-39,Marketing,City,Undergraduate,On-Campus,3,3,offsite,4,No,42419,Yes
+214,MKT1262,29,23-29,Marketing,City,Postgraduate,Walk-in,4,2,offsite,8,Yes,65715,Yes
+215,MKT7287,50,50-54,Marketing,City,Postgraduate,Referral,2,2,offsite,1,No,29805,No
+216,PUR9815,27,23-29,Purchasing,Suburb,Postgraduate,On-Campus,3,3,offsite,2,No,42419,No
+217,TECH3049,39,30-39,Technology,Suburb,Postgraduate,Referral,3,1,offsite,6,Yes,42419,No
+218,PUR6423,46,40-49,Purchasing,City,Postgraduate,Walk-in,2,2,onsite,6,No,29805,No
+219,TECH5548,42,40-49,Technology,Suburb,Postgraduate,Walk-in,2,5,onsite,5,Yes,29805,Yes
+220,MKT4108,31,30-39,Marketing,City,Postgraduate,Recruitment Agency,1,3,offsite,5,Yes,24076,No
+221,MKT8158,36,30-39,Marketing,City,Undergraduate,On-Campus,3,3,onsite,1,No,42419,Yes
+222,PUR8400,48,40-49,Purchasing,City,Postgraduate,Walk-in,5,2,offsite,9,Yes,86750,Yes
+223,PUR4170,34,30-39,Purchasing,Suburb,Undergraduate,Recruitment Agency,2,1,onsite,5,Yes,29805,No
+224,TECH3255,28,23-29,Technology,City,Postgraduate,On-Campus,2,5,onsite,3,No,29805,No
+225,SAL2154,39,30-39,Sales,City,Postgraduate,Walk-in,4,1,onsite,2,No,65715,Yes
+226,TECH5499,41,40-49,Technology,Suburb,Undergraduate,Walk-in,5,4,onsite,1,Yes,86750,Yes
+227,PUR7295,41,40-49,Purchasing,Suburb,Postgraduate,On-Campus,5,4,offsite,0,No,86750,No
+228,PUR7197,48,40-49,Purchasing,Suburb,Postgraduate,On-Campus,2,2,offsite,4,Yes,29805,No
+229,HR2648,38,30-39,HR,City,Undergraduate,On-Campus,1,2,onsite,1,Yes,24076,No
+230,PUR6539,34,30-39,Purchasing,City,Postgraduate,Walk-in,4,2,onsite,1,No,65715,Yes
+231,HR5199,34,30-39,HR,Suburb,Postgraduate,Walk-in,5,4,offsite,6,No,86750,Yes
+232,SAL9445,42,40-49,Sales,City,Postgraduate,Recruitment Agency,2,1,onsite,7,No,29805,No
+233,TECH3557,54,50-54,Technology,Suburb,Undergraduate,Referral,5,1,offsite,9,No,86750,Yes
+234,TECH6592,28,23-29,Technology,Suburb,Postgraduate,On-Campus,4,2,offsite,7,Yes,65715,Yes
+235,HR1098,53,50-54,HR,City,Postgraduate,Walk-in,4,5,offsite,3,Yes,65715,No
+236,TECH3200,45,40-49,Technology,City,Postgraduate,Walk-in,3,1,onsite,0,No,42419,No
+237,PUR3961,48,40-49,Purchasing,Suburb,Postgraduate,On-Campus,2,4,offsite,6,No,29805,Yes
+238,MKT5973,26,23-29,Marketing,Suburb,Undergraduate,Referral,4,3,onsite,0,Yes,65715,Yes
+239,HR5433,28,23-29,HR,Suburb,Undergraduate,On-Campus,3,3,offsite,3,Yes,42419,No
+240,TECH3869,33,30-39,Technology,Suburb,Postgraduate,Referral,3,3,onsite,7,Yes,42419,No
+241,HR1956,23,23-29,HR,City,Postgraduate,Walk-in,5,5,onsite,1,Yes,86750,No
+242,HR9352,52,50-54,HR,Suburb,Undergraduate,Referral,5,2,onsite,5,No,86750,No
+243,MKT6699,46,40-49,Marketing,Suburb,Undergraduate,Recruitment Agency,3,4,offsite,5,Yes,42419,No
+244,PUR7944,45,40-49,Purchasing,Suburb,Postgraduate,Walk-in,5,5,offsite,8,Yes,86750,Yes
+245,HR5493,37,30-39,HR,City,Undergraduate,Recruitment Agency,4,4,onsite,4,No,65715,Yes
+246,TECH5911,49,40-49,Technology,City,Postgraduate,On-Campus,1,4,onsite,9,Yes,24076,Yes
+247,SAL4987,33,30-39,Sales,Suburb,Undergraduate,On-Campus,4,2,onsite,3,Yes,65715,Yes
+248,HR7015,54,50-54,HR,City,Undergraduate,On-Campus,3,3,offsite,4,No,42419,No
+249,HR2218,47,40-49,HR,City,Undergraduate,Referral,3,2,offsite,9,No,42419,No
+250,MKT5496,41,40-49,Marketing,City,Undergraduate,Walk-in,4,5,offsite,4,No,65715,No
+251,PUR5735,40,40-49,Purchasing,Suburb,Postgraduate,On-Campus,5,5,offsite,7,Yes,86750,Yes
+252,SAL5555,39,30-39,Sales,Suburb,Undergraduate,On-Campus,5,5,onsite,9,Yes,86750,Yes
+253,TECH9050,41,40-49,Technology,City,Undergraduate,Walk-in,3,2,onsite,7,No,42419,Yes
+254,SAL4446,43,40-49,Sales,Suburb,Postgraduate,On-Campus,2,4,offsite,1,No,29805,No
+255,TECH2045,36,30-39,Technology,Suburb,Undergraduate,Recruitment Agency,5,4,offsite,6,Yes,86750,Yes
+256,PUR7893,49,40-49,Purchasing,City,Undergraduate,Walk-in,4,1,onsite,7,No,65715,No
+257,TECH2693,40,40-49,Technology,City,Postgraduate,Walk-in,5,5,offsite,5,No,86750,No
+258,MKT4436,50,50-54,Marketing,Suburb,Undergraduate,Walk-in,4,4,offsite,4,No,65715,No
+259,MKT9754,41,40-49,Marketing,City,Postgraduate,Recruitment Agency,3,1,offsite,8,Yes,42419,No
+260,MKT6895,37,30-39,Marketing,Suburb,Postgraduate,Walk-in,5,4,offsite,2,Yes,86750,No
+261,MKT4354,53,50-54,Marketing,Suburb,Postgraduate,Recruitment Agency,4,5,offsite,9,Yes,65715,No
+262,SAL1225,37,30-39,Sales,City,Postgraduate,Walk-in,3,3,offsite,3,Yes,42419,Yes
+263,PUR5893,26,23-29,Purchasing,Suburb,Undergraduate,Referral,2,5,onsite,8,Yes,29805,No
+264,TECH8022,29,23-29,Technology,Suburb,Postgraduate,On-Campus,4,2,offsite,5,Yes,65715,No
+265,TECH6600,35,30-39,Technology,City,Undergraduate,Referral,2,4,offsite,7,No,29805,Yes
+266,MKT8996,25,23-29,Marketing,City,Undergraduate,On-Campus,2,4,onsite,6,Yes,29805,No
+267,MKT8683,38,30-39,Marketing,City,Undergraduate,Recruitment Agency,1,2,onsite,1,Yes,24076,Yes
+268,HR5642,53,50-54,HR,Suburb,Undergraduate,Referral,5,2,onsite,2,No,86750,Yes
+269,PUR8679,31,30-39,Purchasing,City,Undergraduate,Walk-in,4,3,offsite,0,Yes,65715,Yes
+270,SAL9208,30,30-39,Sales,City,Undergraduate,On-Campus,2,4,onsite,8,Yes,29805,No
+271,TECH8339,42,40-49,Technology,City,Undergraduate,On-Campus,1,4,offsite,6,No,24076,No
+272,HR3205,35,30-39,HR,City,Undergraduate,Referral,3,3,offsite,0,No,42419,Yes
+273,HR2069,39,30-39,HR,Suburb,Undergraduate,Recruitment Agency,4,1,offsite,2,No,65715,No
+274,TECH4444,39,30-39,Technology,Suburb,Undergraduate,Referral,2,3,onsite,3,Yes,29805,No
+275,SAL2060,39,30-39,Sales,City,Postgraduate,Recruitment Agency,5,5,onsite,3,No,86750,Yes
+276,HR3327,23,23-29,HR,Suburb,Postgraduate,Recruitment Agency,1,4,onsite,4,Yes,24076,Yes
+277,HR4420,54,50-54,HR,City,Postgraduate,On-Campus,2,2,onsite,2,Yes,29805,No
+278,PUR1301,30,30-39,Purchasing,City,Undergraduate,Referral,5,5,onsite,2,Yes,86750,Yes
+279,SAL1606,41,40-49,Sales,Suburb,Postgraduate,Referral,2,4,offsite,0,Yes,29805,Yes
+280,HR4170,53,50-54,HR,Suburb,Postgraduate,Recruitment Agency,4,3,offsite,6,No,65715,Yes
+281,SAL1699,28,23-29,Sales,City,Postgraduate,Referral,4,5,offsite,9,No,65715,No
+282,TECH6088,25,23-29,Technology,City,Undergraduate,Walk-in,4,4,offsite,0,Yes,65715,No
+283,MKT1190,49,40-49,Marketing,Suburb,Undergraduate,Walk-in,1,1,onsite,1,No,24076,No
+284,HR1980,27,23-29,HR,City,Undergraduate,Referral,4,1,onsite,3,Yes,65715,Yes
+285,PUR3975,35,30-39,Purchasing,Suburb,Undergraduate,Referral,5,2,offsite,3,Yes,86750,No
+286,TECH7102,37,30-39,Technology,City,Postgraduate,Recruitment Agency,2,4,onsite,4,Yes,29805,Yes
+287,SAL2184,36,30-39,Sales,City,Postgraduate,Walk-in,3,1,onsite,1,No,42419,No
+288,TECH4327,51,50-54,Technology,Suburb,Postgraduate,Walk-in,5,3,offsite,3,Yes,86750,No
+289,HR4394,53,50-54,HR,Suburb,Postgraduate,On-Campus,5,4,offsite,0,Yes,86750,Yes
+290,SAL9319,45,40-49,Sales,Suburb,Undergraduate,Recruitment Agency,4,3,onsite,1,No,65715,No
+291,MKT2816,38,30-39,Marketing,Suburb,Undergraduate,On-Campus,1,3,onsite,0,No,24076,Yes
+292,TECH6854,40,40-49,Technology,Suburb,Undergraduate,Walk-in,2,1,offsite,9,No,29805,No
+293,HR7709,54,50-54,HR,Suburb,Postgraduate,Recruitment Agency,1,4,offsite,9,No,24076,No
+294,PUR1569,44,40-49,Purchasing,Suburb,Undergraduate,Referral,2,5,offsite,3,Yes,29805,Yes
+295,SAL6442,51,50-54,Sales,City,Undergraduate,Recruitment Agency,2,1,onsite,3,No,29805,Yes
+296,TECH2895,44,40-49,Technology,City,Postgraduate,Referral,1,1,offsite,6,Yes,24076,Yes
+297,TECH3733,33,30-39,Technology,City,Postgraduate,Referral,5,4,offsite,9,No,86750,No
+298,MKT4863,25,23-29,Marketing,Suburb,Undergraduate,Recruitment Agency,2,4,onsite,8,No,29805,No
+299,MKT8455,44,40-49,Marketing,Suburb,Undergraduate,Referral,1,3,onsite,8,No,24076,No
+300,PUR5014,32,30-39,Purchasing,Suburb,Undergraduate,On-Campus,2,4,onsite,4,No,29805,Yes
+301,PUR2686,32,30-39,Purchasing,City,Undergraduate,Walk-in,3,3,onsite,9,No,42419,Yes
+302,HR4009,54,50-54,HR,Suburb,Undergraduate,Referral,5,1,onsite,0,No,86750,Yes
+303,HR8806,52,50-54,HR,Suburb,Undergraduate,On-Campus,4,2,offsite,0,Yes,65715,No
+304,PUR1154,43,40-49,Purchasing,City,Postgraduate,Referral,2,5,offsite,5,No,29805,No
+305,PUR2409,38,30-39,Purchasing,Suburb,Postgraduate,Walk-in,3,1,onsite,1,No,42419,Yes
+306,SAL1784,34,30-39,Sales,City,Postgraduate,On-Campus,4,4,onsite,7,No,65715,No
+307,MKT9096,24,23-29,Marketing,City,Undergraduate,Walk-in,4,5,onsite,8,No,65715,Yes
+308,HR8560,31,30-39,HR,Suburb,Postgraduate,Walk-in,2,2,onsite,3,Yes,29805,No
+309,MKT8343,46,40-49,Marketing,Suburb,Undergraduate,On-Campus,1,2,onsite,4,No,24076,No
+310,MKT8206,25,23-29,Marketing,Suburb,Undergraduate,On-Campus,2,3,offsite,7,No,29805,Yes
+311,PUR6596,46,40-49,Purchasing,City,Postgraduate,On-Campus,3,5,offsite,2,No,42419,No
+312,SAL6801,52,50-54,Sales,City,Undergraduate,Recruitment Agency,4,3,offsite,4,No,65715,No
+313,TECH3806,47,40-49,Technology,City,Undergraduate,On-Campus,2,1,offsite,2,Yes,29805,Yes
+314,SAL1537,52,50-54,Sales,Suburb,Postgraduate,On-Campus,1,5,onsite,9,No,24076,Yes
+315,SAL6986,37,30-39,Sales,Suburb,Postgraduate,On-Campus,2,1,offsite,2,Yes,29805,No
+316,MKT2841,25,23-29,Marketing,Suburb,Postgraduate,On-Campus,5,3,onsite,2,No,86750,Yes
+317,SAL9716,41,40-49,Sales,Suburb,Undergraduate,Referral,1,5,onsite,6,Yes,24076,No
+318,HR7971,40,40-49,HR,City,Postgraduate,Recruitment Agency,3,3,onsite,6,Yes,42419,Yes
+319,MKT6625,30,30-39,Marketing,City,Postgraduate,Walk-in,4,5,offsite,6,No,65715,No
+320,HR3950,48,40-49,HR,City,Undergraduate,On-Campus,2,3,onsite,9,No,29805,No
+321,TECH8992,39,30-39,Technology,City,Postgraduate,Referral,1,2,offsite,7,Yes,24076,Yes
+322,MKT5780,30,30-39,Marketing,Suburb,Postgraduate,Referral,5,3,offsite,4,Yes,86750,No
+323,TECH3368,29,23-29,Technology,Suburb,Postgraduate,Referral,1,2,onsite,4,No,24076,No
+324,MKT7655,52,50-54,Marketing,Suburb,Undergraduate,Walk-in,5,3,onsite,3,Yes,86750,Yes
+325,PUR9173,29,23-29,Purchasing,City,Undergraduate,On-Campus,3,5,onsite,6,Yes,42419,Yes
+326,SAL5495,25,23-29,Sales,City,Undergraduate,Recruitment Agency,4,5,offsite,9,Yes,65715,No
+327,PUR7002,23,23-29,Purchasing,Suburb,Undergraduate,Recruitment Agency,3,5,onsite,3,No,42419,Yes
+328,TECH7614,26,23-29,Technology,Suburb,Postgraduate,Referral,2,4,offsite,1,Yes,29805,Yes
+329,SAL6919,47,40-49,Sales,City,Undergraduate,Walk-in,1,1,onsite,3,Yes,24076,No
+330,MKT1853,27,23-29,Marketing,Suburb,Undergraduate,Walk-in,5,5,onsite,7,Yes,86750,No
+331,SAL5146,23,23-29,Sales,City,Postgraduate,Walk-in,5,2,offsite,8,No,86750,Yes
+332,HR4769,37,30-39,HR,City,Postgraduate,Recruitment Agency,1,5,offsite,2,No,24076,Yes
+333,SAL1574,27,23-29,Sales,City,Postgraduate,Referral,1,4,offsite,6,Yes,24076,Yes
+334,HR2148,35,30-39,HR,Suburb,Undergraduate,On-Campus,2,2,offsite,8,No,29805,No
+335,SAL7293,30,30-39,Sales,Suburb,Undergraduate,Recruitment Agency,3,4,offsite,3,Yes,42419,No
+336,HR7457,30,30-39,HR,City,Undergraduate,Referral,5,2,offsite,9,No,86750,No
+337,TECH8509,27,23-29,Technology,Suburb,Postgraduate,Referral,2,3,onsite,2,No,29805,No
+338,PUR5777,50,50-54,Purchasing,City,Postgraduate,On-Campus,3,1,onsite,4,Yes,42419,No
+339,MKT4854,54,50-54,Marketing,City,Undergraduate,On-Campus,2,1,offsite,0,No,29805,No
+340,SAL3491,31,30-39,Sales,City,Postgraduate,On-Campus,5,4,onsite,2,No,86750,No
+341,PUR4124,53,50-54,Purchasing,City,Postgraduate,Walk-in,1,1,offsite,7,No,24076,Yes
+342,MKT6691,23,23-29,Marketing,Suburb,Postgraduate,On-Campus,1,4,onsite,7,Yes,24076,Yes
+343,MKT4051,26,23-29,Marketing,City,Undergraduate,Referral,3,4,onsite,3,No,42419,No
+344,HR1004,25,23-29,HR,City,Postgraduate,On-Campus,4,4,offsite,1,No,65715,No
+345,TECH6222,24,23-29,Technology,Suburb,Postgraduate,Referral,3,1,offsite,7,Yes,42419,No
+346,TECH6315,53,50-54,Technology,City,Undergraduate,Recruitment Agency,4,4,offsite,7,No,65715,Yes
+347,PUR5869,30,30-39,Purchasing,City,Undergraduate,Walk-in,2,1,onsite,9,No,29805,No
+348,TECH1876,45,40-49,Technology,Suburb,Postgraduate,Recruitment Agency,2,4,offsite,3,No,29805,Yes
+349,SAL8027,31,30-39,Sales,Suburb,Postgraduate,Recruitment Agency,5,5,onsite,2,No,86750,Yes
+350,TECH5142,24,23-29,Technology,Suburb,Undergraduate,Referral,4,4,offsite,1,No,65715,Yes
+351,PUR7966,36,30-39,Purchasing,City,Undergraduate,Recruitment Agency,5,2,onsite,8,Yes,86750,Yes
+352,TECH8079,36,30-39,Technology,Suburb,Postgraduate,Referral,1,4,onsite,0,Yes,24076,Yes
+353,SAL8987,54,50-54,Sales,Suburb,Postgraduate,On-Campus,4,3,offsite,6,No,65715,No
+354,HR7799,26,23-29,HR,City,Postgraduate,On-Campus,3,4,onsite,4,No,42419,No
+355,PUR5465,52,50-54,Purchasing,City,Postgraduate,Referral,1,2,onsite,7,No,24076,Yes
+356,HR1635,53,50-54,HR,City,Undergraduate,On-Campus,1,2,offsite,3,Yes,24076,No
+357,HR2693,28,23-29,HR,City,Postgraduate,Walk-in,3,1,onsite,6,Yes,42419,Yes
+358,HR5752,33,30-39,HR,City,Postgraduate,Recruitment Agency,1,5,offsite,4,No,24076,Yes
+359,MKT9311,25,23-29,Marketing,Suburb,Undergraduate,Walk-in,4,4,offsite,4,No,65715,No
+360,MKT1830,30,30-39,Marketing,Suburb,Postgraduate,Recruitment Agency,5,1,offsite,8,Yes,86750,No
+361,HR6177,25,23-29,HR,Suburb,Undergraduate,On-Campus,1,5,offsite,8,No,24076,No
+362,PUR9932,36,30-39,Purchasing,City,Postgraduate,Walk-in,4,4,onsite,8,Yes,65715,No
+363,SAL9308,50,50-54,Sales,City,Postgraduate,On-Campus,2,3,onsite,5,Yes,29805,No
+364,SAL6949,35,30-39,Sales,City,Undergraduate,Recruitment Agency,4,4,onsite,5,No,65715,Yes
+365,TECH3838,35,30-39,Technology,Suburb,Undergraduate,Referral,5,2,offsite,4,Yes,86750,No
+366,PUR2150,54,50-54,Purchasing,Suburb,Postgraduate,Referral,4,2,onsite,8,No,65715,No
+367,MKT8560,24,23-29,Marketing,City,Postgraduate,Walk-in,3,3,onsite,9,No,42419,No
+368,HR2931,35,30-39,HR,Suburb,Postgraduate,On-Campus,5,1,offsite,7,No,86750,Yes
+369,TECH2664,51,50-54,Technology,City,Undergraduate,On-Campus,2,5,offsite,6,No,29805,No
+370,SAL2081,41,40-49,Sales,Suburb,Postgraduate,Walk-in,3,4,onsite,6,No,42419,Yes
+371,MKT1512,49,40-49,Marketing,Suburb,Undergraduate,Referral,4,2,offsite,5,No,65715,No
+372,MKT8805,28,23-29,Marketing,Suburb,Undergraduate,Recruitment Agency,5,1,offsite,4,Yes,86750,No
+373,HR6237,38,30-39,HR,City,Postgraduate,Walk-in,2,3,offsite,3,Yes,29805,Yes
+374,SAL1559,24,23-29,Sales,Suburb,Undergraduate,Recruitment Agency,3,2,offsite,2,Yes,42419,No
+375,PUR4672,30,30-39,Purchasing,Suburb,Postgraduate,Referral,2,3,onsite,2,Yes,29805,No
+376,MKT8404,39,30-39,Marketing,City,Postgraduate,On-Campus,4,4,offsite,5,No,65715,Yes
+377,HR4343,45,40-49,HR,Suburb,Postgraduate,Referral,2,5,offsite,3,Yes,29805,No
+378,PUR5070,24,23-29,Purchasing,City,Postgraduate,Walk-in,1,2,offsite,5,Yes,24076,Yes
+379,SAL1580,32,30-39,Sales,City,Postgraduate,On-Campus,3,2,offsite,2,Yes,42419,Yes
+380,MKT8004,50,50-54,Marketing,City,Undergraduate,Walk-in,2,4,offsite,3,No,29805,Yes
+381,PUR9130,38,30-39,Purchasing,City,Undergraduate,Walk-in,4,1,offsite,8,Yes,65715,Yes
+382,PUR4147,28,23-29,Purchasing,City,Postgraduate,Referral,4,5,offsite,4,No,65715,Yes
+383,PUR5249,50,50-54,Purchasing,Suburb,Postgraduate,Walk-in,2,2,offsite,6,Yes,29805,No
+384,MKT2679,24,23-29,Marketing,City,Undergraduate,Referral,4,5,onsite,9,No,65715,No
+385,MKT4506,24,23-29,Marketing,City,Undergraduate,On-Campus,5,2,offsite,1,No,86750,No
+386,TECH8253,48,40-49,Technology,City,Undergraduate,Referral,5,5,onsite,4,Yes,86750,Yes
+387,SAL3744,35,30-39,Sales,City,Undergraduate,On-Campus,5,3,offsite,8,No,86750,Yes
+388,HR6188,46,40-49,HR,Suburb,Postgraduate,Referral,1,2,offsite,2,No,24076,Yes
+389,PUR3141,37,30-39,Purchasing,City,Postgraduate,Recruitment Agency,2,5,offsite,8,Yes,29805,Yes
+390,TECH7617,53,50-54,Technology,Suburb,Undergraduate,Recruitment Agency,1,1,offsite,5,Yes,24076,No
+391,HR3479,50,50-54,HR,City,Postgraduate,Walk-in,4,3,onsite,3,Yes,65715,No
+392,TECH7484,24,23-29,Technology,Suburb,Undergraduate,Referral,1,3,offsite,6,No,24076,Yes
+393,MKT8421,29,23-29,Marketing,City,Postgraduate,Referral,4,1,offsite,7,No,65715,Yes
+394,PUR5452,25,23-29,Purchasing,City,Undergraduate,On-Campus,4,5,onsite,5,No,65715,No
+395,HR6881,30,30-39,HR,Suburb,Postgraduate,Walk-in,3,4,onsite,4,Yes,42419,Yes
+396,HR7665,45,40-49,HR,City,Undergraduate,Referral,5,1,offsite,5,No,86750,Yes
+397,HR3849,36,30-39,HR,Suburb,Undergraduate,Walk-in,4,5,onsite,4,No,65715,Yes
+398,HR8390,46,40-49,HR,City,Postgraduate,Recruitment Agency,3,1,onsite,7,No,42419,No
+399,HR7905,52,50-54,HR,Suburb,Undergraduate,Referral,5,1,onsite,0,No,86750,No
+400,TECH3489,45,40-49,Technology,City,Postgraduate,Referral,4,2,offsite,6,No,65715,Yes
+401,PUR5611,49,40-49,Purchasing,City,Postgraduate,Walk-in,4,5,offsite,9,No,65715,No
+402,MKT3839,44,40-49,Marketing,Suburb,Undergraduate,Referral,1,4,offsite,9,No,24076,Yes
+403,MKT9527,51,50-54,Marketing,City,Postgraduate,Walk-in,1,2,onsite,1,Yes,24076,Yes
+404,MKT6878,29,23-29,Marketing,City,Postgraduate,Referral,5,1,offsite,8,Yes,86750,No
+405,MKT7303,43,40-49,Marketing,City,Postgraduate,On-Campus,4,1,onsite,0,Yes,65715,Yes
+406,TECH1851,29,23-29,Technology,City,Postgraduate,Walk-in,2,1,offsite,9,No,29805,Yes
+407,SAL2687,23,23-29,Sales,City,Postgraduate,Referral,1,5,offsite,5,No,24076,No
+408,PUR7833,39,30-39,Purchasing,City,Undergraduate,Recruitment Agency,5,5,onsite,8,Yes,86750,Yes
+409,HR3427,31,30-39,HR,Suburb,Postgraduate,Referral,4,2,offsite,0,No,65715,Yes
+410,SAL5000,52,50-54,Sales,Suburb,Postgraduate,Recruitment Agency,4,4,onsite,3,Yes,65715,Yes
+411,MKT6052,43,40-49,Marketing,Suburb,Postgraduate,Recruitment Agency,2,2,onsite,3,No,29805,No
+412,SAL3738,35,30-39,Sales,City,Postgraduate,On-Campus,5,3,offsite,8,No,86750,Yes
+413,PUR6732,43,40-49,Purchasing,Suburb,Postgraduate,Walk-in,4,1,onsite,4,Yes,65715,No
+414,HR6387,41,40-49,HR,City,Undergraduate,Referral,1,1,offsite,4,Yes,24076,Yes
+415,HR9002,43,40-49,HR,City,Postgraduate,On-Campus,2,1,offsite,5,Yes,29805,Yes
+416,PUR6536,41,40-49,Purchasing,City,Undergraduate,Referral,5,2,onsite,0,Yes,86750,Yes
+417,PUR4913,47,40-49,Purchasing,City,Undergraduate,Recruitment Agency,2,2,offsite,0,Yes,29805,Yes
+418,MKT2066,47,40-49,Marketing,Suburb,Undergraduate,Walk-in,1,1,onsite,8,No,24076,No
+419,HR8723,44,40-49,HR,City,Undergraduate,Referral,5,2,offsite,2,No,86750,No
+420,SAL5380,53,50-54,Sales,Suburb,Postgraduate,Referral,2,5,offsite,3,No,29805,Yes
+421,TECH5107,39,30-39,Technology,City,Undergraduate,Recruitment Agency,3,5,offsite,0,Yes,42419,Yes
+422,TECH6726,45,40-49,Technology,Suburb,Undergraduate,Referral,1,2,offsite,8,Yes,24076,Yes
+423,PUR4373,45,40-49,Purchasing,Suburb,Postgraduate,Referral,1,1,offsite,7,Yes,24076,Yes
+424,MKT9945,54,50-54,Marketing,Suburb,Postgraduate,Recruitment Agency,1,2,onsite,1,Yes,24076,Yes
+425,TECH3082,52,50-54,Technology,Suburb,Postgraduate,On-Campus,3,2,onsite,7,Yes,42419,Yes
+426,HR9967,32,30-39,HR,Suburb,Undergraduate,Recruitment Agency,3,2,onsite,6,Yes,42419,Yes
+427,PUR7748,32,30-39,Purchasing,Suburb,Postgraduate,On-Campus,4,3,onsite,5,No,65715,Yes
+428,SAL1417,26,23-29,Sales,City,Postgraduate,Walk-in,2,5,onsite,0,No,29805,No
+429,PUR9306,30,30-39,Purchasing,Suburb,Undergraduate,On-Campus,4,4,onsite,6,No,65715,No
+430,SAL9808,44,40-49,Sales,City,Postgraduate,On-Campus,2,4,offsite,9,No,29805,No
+431,PUR4974,42,40-49,Purchasing,Suburb,Postgraduate,Walk-in,3,3,offsite,6,No,42419,Yes
+432,PUR4267,42,40-49,Purchasing,City,Postgraduate,On-Campus,3,2,onsite,8,Yes,42419,Yes
+433,PUR1825,54,50-54,Purchasing,Suburb,Postgraduate,Recruitment Agency,4,3,onsite,0,Yes,65715,Yes
+434,SAL8668,40,40-49,Sales,Suburb,Undergraduate,On-Campus,5,3,offsite,1,Yes,86750,No
+435,SAL6745,36,30-39,Sales,City,Postgraduate,Walk-in,4,1,offsite,8,Yes,65715,Yes
+436,PUR1412,40,40-49,Purchasing,Suburb,Postgraduate,Recruitment Agency,2,5,offsite,8,Yes,29805,No
+437,TECH8543,50,50-54,Technology,Suburb,Undergraduate,Walk-in,4,4,onsite,5,Yes,65715,Yes
+438,MKT8587,36,30-39,Marketing,Suburb,Postgraduate,Walk-in,1,2,onsite,5,No,24076,No
+439,MKT1728,42,40-49,Marketing,City,Undergraduate,Referral,2,4,onsite,3,Yes,29805,No
+440,MKT8164,43,40-49,Marketing,Suburb,Postgraduate,Referral,2,4,offsite,3,Yes,29805,No
+441,SAL9867,46,40-49,Sales,City,Undergraduate,Walk-in,5,5,offsite,4,Yes,86750,Yes
+442,SAL6988,37,30-39,Sales,Suburb,Undergraduate,Walk-in,3,4,onsite,2,Yes,42419,No
+443,TECH3504,44,40-49,Technology,Suburb,Undergraduate,Walk-in,2,4,onsite,0,No,29805,Yes
+444,MKT3967,52,50-54,Marketing,City,Undergraduate,Referral,3,3,offsite,0,No,42419,Yes
+445,MKT3786,53,50-54,Marketing,Suburb,Postgraduate,Referral,4,5,offsite,6,Yes,65715,Yes
+446,PUR2122,26,23-29,Purchasing,Suburb,Undergraduate,On-Campus,1,1,offsite,0,No,24076,Yes
+447,SAL5079,35,30-39,Sales,City,Postgraduate,On-Campus,5,2,offsite,0,No,86750,Yes
+448,MKT2571,49,40-49,Marketing,Suburb,Undergraduate,Walk-in,3,4,onsite,2,Yes,42419,No
+449,TECH6073,45,40-49,Technology,City,Undergraduate,Recruitment Agency,2,2,offsite,9,Yes,29805,Yes
+450,TECH6104,30,30-39,Technology,City,Undergraduate,Recruitment Agency,3,1,offsite,3,Yes,42419,Yes
+451,MKT3143,40,40-49,Marketing,City,Postgraduate,Referral,2,2,offsite,3,Yes,29805,Yes
+452,SAL7806,34,30-39,Sales,Suburb,Undergraduate,Referral,3,1,onsite,1,Yes,42419,Yes
+453,TECH8357,45,40-49,Technology,City,Postgraduate,Referral,2,3,onsite,0,No,29805,Yes
+454,PUR4440,53,50-54,Purchasing,City,Postgraduate,Walk-in,4,4,offsite,2,Yes,65715,No
+455,TECH4766,36,30-39,Technology,Suburb,Postgraduate,Recruitment Agency,2,1,offsite,3,Yes,29805,No
+456,HR6644,24,23-29,HR,City,Postgraduate,On-Campus,2,2,offsite,2,Yes,29805,Yes
+457,HR3914,40,40-49,HR,Suburb,Postgraduate,Walk-in,1,4,onsite,7,No,24076,No
+458,SAL5968,46,40-49,Sales,Suburb,Postgraduate,On-Campus,2,3,onsite,9,Yes,29805,No
+459,MKT6917,24,23-29,Marketing,Suburb,Postgraduate,On-Campus,1,4,onsite,0,Yes,24076,Yes
+460,SAL9787,53,50-54,Sales,Suburb,Postgraduate,Walk-in,5,1,offsite,1,Yes,86750,No
+461,SAL1728,33,30-39,Sales,City,Postgraduate,On-Campus,1,3,onsite,6,No,24076,Yes
+462,SAL2365,31,30-39,Sales,City,Undergraduate,Recruitment Agency,4,2,offsite,3,Yes,65715,No
+463,SAL5492,34,30-39,Sales,City,Undergraduate,On-Campus,1,3,offsite,7,Yes,24076,No
+464,PUR1698,39,30-39,Purchasing,City,Undergraduate,Recruitment Agency,5,3,offsite,2,Yes,86750,No
+465,PUR8186,37,30-39,Purchasing,City,Undergraduate,Recruitment Agency,4,5,onsite,5,No,65715,Yes
+466,TECH1395,47,40-49,Technology,Suburb,Undergraduate,Recruitment Agency,3,3,offsite,8,Yes,42419,No
+467,HR8400,53,50-54,HR,City,Postgraduate,Referral,3,3,onsite,0,Yes,42419,No
+468,SAL9082,39,30-39,Sales,City,Postgraduate,On-Campus,1,4,onsite,0,Yes,24076,Yes
+469,TECH5171,48,40-49,Technology,City,Postgraduate,Walk-in,1,2,offsite,7,No,24076,Yes
+470,HR5360,51,50-54,HR,Suburb,Postgraduate,Walk-in,5,4,offsite,2,Yes,86750,No
+471,MKT3502,48,40-49,Marketing,Suburb,Postgraduate,On-Campus,5,4,onsite,4,Yes,86750,Yes
+472,PUR1717,40,40-49,Purchasing,City,Postgraduate,Referral,2,1,offsite,0,Yes,29805,No
+473,HR3782,54,50-54,HR,Suburb,Postgraduate,Referral,5,4,onsite,4,No,86750,No
+474,MKT5946,44,40-49,Marketing,City,Undergraduate,Recruitment Agency,2,5,offsite,5,No,29805,Yes
+475,HR6486,28,23-29,HR,City,Undergraduate,On-Campus,4,5,onsite,7,Yes,65715,Yes
+476,PUR9335,39,30-39,Purchasing,Suburb,Undergraduate,On-Campus,1,1,onsite,2,No,24076,Yes
+477,PUR5980,45,40-49,Purchasing,Suburb,Undergraduate,Walk-in,4,2,onsite,2,No,65715,No
+478,TECH8266,46,40-49,Technology,City,Postgraduate,On-Campus,5,2,onsite,9,No,86750,Yes
+479,SAL5491,40,40-49,Sales,City,Postgraduate,Referral,4,4,offsite,8,Yes,65715,No
+480,HR8192,30,30-39,HR,Suburb,Postgraduate,On-Campus,4,4,offsite,3,Yes,65715,Yes
+481,HR6588,31,30-39,HR,City,Undergraduate,Walk-in,4,4,onsite,3,No,65715,No
+482,MKT8651,28,23-29,Marketing,Suburb,Postgraduate,Recruitment Agency,5,2,onsite,6,No,86750,Yes
+483,PUR4636,27,23-29,Purchasing,City,Postgraduate,Walk-in,4,3,offsite,1,No,65715,No
+484,HR2167,34,30-39,HR,Suburb,Postgraduate,Walk-in,2,5,offsite,7,Yes,29805,Yes
+485,PUR2062,47,40-49,Purchasing,City,Undergraduate,Recruitment Agency,5,3,offsite,5,Yes,86750,No
+486,HR3156,54,50-54,HR,City,Postgraduate,Walk-in,4,3,offsite,2,No,65715,Yes
+487,TECH8860,51,50-54,Technology,Suburb,Undergraduate,Walk-in,5,2,offsite,8,No,86750,Yes
+488,SAL6161,50,50-54,Sales,City,Undergraduate,On-Campus,3,3,offsite,4,No,42419,No
+489,HR6305,33,30-39,HR,City,Undergraduate,On-Campus,2,1,onsite,7,No,29805,Yes
+490,PUR7541,47,40-49,Purchasing,Suburb,Undergraduate,Recruitment Agency,4,4,offsite,6,Yes,65715,No
+491,TECH5729,23,23-29,Technology,City,Postgraduate,On-Campus,3,1,offsite,7,No,42419,No
+492,HR8330,33,30-39,HR,City,Undergraduate,On-Campus,3,5,onsite,6,Yes,42419,Yes
+493,MKT6334,41,40-49,Marketing,City,Undergraduate,Walk-in,5,4,offsite,2,No,86750,No
+494,SAL9924,31,30-39,Sales,Suburb,Postgraduate,Referral,3,3,offsite,1,No,42419,Yes
+495,HR5330,49,40-49,HR,Suburb,Postgraduate,On-Campus,2,5,offsite,6,No,29805,Yes
+496,TECH9010,24,23-29,Technology,Suburb,Undergraduate,Referral,2,4,offsite,2,No,29805,No
+497,MKT7801,34,30-39,Marketing,City,Postgraduate,On-Campus,1,3,offsite,2,No,24076,Yes
+498,TECH5846,26,23-29,Technology,City,Undergraduate,On-Campus,2,1,onsite,1,Yes,29805,No
+499,TECH7731,26,23-29,Technology,City,Undergraduate,Recruitment Agency,3,4,offsite,3,No,42419,No
